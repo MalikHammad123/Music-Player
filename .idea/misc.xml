@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/back.xml" value="0.164" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/bottonnavbg.xml" value="0.119" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/brownbg.xml" value="0.119" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1415" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/loginbg.xml" value="0.177" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/loginbtnbg.xml" value="0.177" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/playbtn.xml" value="0.177" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/playpausebg.xml" value="0.177" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/drawable/togglebg.xml" value="0.164" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_add8.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_despacito12a.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_despacito13.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_fb4.xml" value="0.18" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_last.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_liked17.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_listenlater15.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_listenlater16.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_main.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_navdrawer7.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_playlist5.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_playlist6.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_profile18.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_recentsearch14.xml" value="0.25" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_record10.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_signin3.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_signup2.xml" value="0.2" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_songtitle11.xml" value="0.22" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_songtitle6.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_splash1.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/activity_upload9.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/app_bar_navdrawer7.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/content_navdrawer7.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/fragment_gallery.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/fragment_home.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/fragment_slideshow.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/layout/nav_header_navdrawer7.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/zes/AndroidStudioProjects/Assignment1_i180687/app/src/main/res/menu/activity_main_drawer.xml" value="0.21145833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
