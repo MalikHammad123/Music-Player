@@ -71,7 +71,7 @@
         android:textColorHint="#FF9800"
         />
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editTextTextPersonName1"
         android:layout_width="match_parent"
         android:layout_height="90dp"
         android:ems="10"
